@@ -5,9 +5,9 @@ compatibility_flags = ["nodejs_compat"]
 compatibility_date = "2024-09-23"
 
 [[d1_databases]]
-binding = "DB" # available in your Worker on env.DB
+binding = "DB"
 database_name = "twikoo"
-database_id = "b35e0bd5-6d17-42eb-a597-ff4869a74461"
+database_id = "f11d782a-f415-44b1-9273-0b2ba34508ce"
 
 [[r2_buckets]]
 binding = "R2"
